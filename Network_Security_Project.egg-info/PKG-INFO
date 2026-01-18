@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: Network-Security-Project
+Version: 0.1
+Author: Huzaifa
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: python-dotenv
+Requires-Dist: pymongo
+Requires-Dist: Certifi
+Dynamic: author
+Dynamic: requires-dist
