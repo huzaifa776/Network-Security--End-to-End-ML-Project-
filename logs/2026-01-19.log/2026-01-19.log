@@ -1,0 +1,25 @@
+[2026-01-19 08:45:48] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 08:46:36] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 08:46:36] INFO - Initiate Data Ingestion
+[2026-01-19 08:47:26] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 08:47:27] INFO - Initiate Data Ingestion
+[2026-01-19 08:47:52] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 08:48:10] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 08:48:11] INFO - Initiate Data Ingestion
+[2026-01-19 08:48:44] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 08:48:44] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 08:48:45] INFO - Initiate Data Ingestion
+[2026-01-19 08:53:05] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 08:53:06] INFO - Initiate Data Ingestion
+[2026-01-19 08:53:22] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 08:53:23] INFO - Initiate Data Ingestion
+[2026-01-19 08:54:34] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 08:54:35] INFO - Initiate Data Ingestion
+[2026-01-19 08:55:41] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 08:55:42] INFO - Initiate Data Ingestion
+[2026-01-19 08:55:43] INFO - Fetched 11055 records from MongoDB collection 'NetworkData'
+[2026-01-19 08:55:43] INFO - Splitting 11055 records into train and test sets
+[2026-01-19 08:55:43] INFO - Performed train test split on the dataset
+[2026-01-19 08:55:43] INFO - Created dataset directory
+[2026-01-19 08:55:43] INFO - Exported train and test file
+[2026-01-19 08:55:43] INFO - Completed Data Ingestion

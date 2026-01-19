@@ -61,10 +61,10 @@ class NetworkDataExtract():
 
 if __name__ == "__main__":
     file_path = "network_data/phishingData.csv"
-    Database = "NetworkSecurityDB"
-    Collection = "PhishingDataCollection"
+    Database = "NetworkDatabase"
+    Collection = "NetworkData"
     networkobj = NetworkDataExtract()
     record = networkobj.csv_to_json(file_path)
-    print(f"Total records to be inserted: {record}")
+    print(f"Total records to be inserted: {len(record)}")
     no_of_records = networkobj.insert_data_mongodb(record, Database, Collection)
     print(f"No of records inserted: {no_of_records}")
