@@ -8,5 +8,8 @@ Requires-Dist: python-dotenv
 Requires-Dist: pymongo
 Requires-Dist: pymongo[srv]==3.12
 Requires-Dist: Certifi
+Requires-Dist: scikit-learn
+Requires-Dist: dill
+Requires-Dist: pyaml
 Dynamic: author
 Dynamic: requires-dist

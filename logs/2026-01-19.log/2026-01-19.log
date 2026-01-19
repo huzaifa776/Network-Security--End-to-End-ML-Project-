@@ -23,3 +23,48 @@
 [2026-01-19 08:55:43] INFO - Created dataset directory
 [2026-01-19 08:55:43] INFO - Exported train and test file
 [2026-01-19 08:55:43] INFO - Completed Data Ingestion
+[2026-01-19 18:22:19] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 18:22:41] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 18:23:02] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 18:23:03] INFO - Initiate the data ingestion
+[2026-01-19 18:23:05] INFO - Fetched 11055 records from MongoDB collection 'NetworkData'
+[2026-01-19 18:23:05] INFO - Splitting 11055 records into train and test sets
+[2026-01-19 18:23:05] INFO - Performed train test split on the dataset
+[2026-01-19 18:23:05] INFO - Created dataset directory
+[2026-01-19 18:23:05] INFO - Exported train and test file
+[2026-01-19 18:23:05] INFO - Data Initiation Completed
+[2026-01-19 18:23:05] INFO - Initiate the data Validation
+[2026-01-19 18:23:05] INFO - Required number of columns:2
+[2026-01-19 18:23:05] INFO - Data frame has columns:31
+[2026-01-19 18:23:05] INFO - Required number of columns:2
+[2026-01-19 18:23:05] INFO - Data frame has columns:31
+[2026-01-19 18:23:05] INFO - data Validation Completed
+[2026-01-19 18:23:13] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 18:23:14] INFO - Initiate the data ingestion
+[2026-01-19 18:23:15] INFO - Fetched 11055 records from MongoDB collection 'NetworkData'
+[2026-01-19 18:23:15] INFO - Splitting 11055 records into train and test sets
+[2026-01-19 18:23:15] INFO - Performed train test split on the dataset
+[2026-01-19 18:23:15] INFO - Created dataset directory
+[2026-01-19 18:23:15] INFO - Exported train and test file
+[2026-01-19 18:23:15] INFO - Data Initiation Completed
+[2026-01-19 18:23:15] INFO - Initiate the data Validation
+[2026-01-19 18:23:15] INFO - Required number of columns:2
+[2026-01-19 18:23:15] INFO - Data frame has columns:31
+[2026-01-19 18:23:15] INFO - Required number of columns:2
+[2026-01-19 18:23:15] INFO - Data frame has columns:31
+[2026-01-19 18:23:15] INFO - data Validation Completed
+[2026-01-19 18:23:51] INFO - NumExpr defaulting to 10 threads.
+[2026-01-19 18:23:52] INFO - Initiate the data ingestion
+[2026-01-19 18:23:53] INFO - Fetched 11055 records from MongoDB collection 'NetworkData'
+[2026-01-19 18:23:53] INFO - Splitting 11055 records into train and test sets
+[2026-01-19 18:23:53] INFO - Performed train test split on the dataset
+[2026-01-19 18:23:53] INFO - Created dataset directory
+[2026-01-19 18:23:53] INFO - Exported train and test file
+[2026-01-19 18:23:53] INFO - Data Initiation Completed
+[2026-01-19 18:23:53] INFO - Initiate the data Validation
+[2026-01-19 18:23:53] INFO - Required number of columns:2
+[2026-01-19 18:23:53] INFO - Data frame has columns:31
+[2026-01-19 18:23:53] INFO - Required number of columns:2
+[2026-01-19 18:23:53] INFO - Data frame has columns:31
+[2026-01-19 18:23:53] INFO - data Validation Completed
+[2026-01-19 18:23:53] INFO - data Transformation started
