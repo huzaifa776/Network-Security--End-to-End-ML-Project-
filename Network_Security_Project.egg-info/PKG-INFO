@@ -11,5 +11,7 @@ Requires-Dist: Certifi
 Requires-Dist: scikit-learn
 Requires-Dist: dill
 Requires-Dist: pyaml
+Requires-Dist: mlflow
+Requires-Dist: dagshub
 Dynamic: author
 Dynamic: requires-dist
