@@ -40,6 +40,10 @@ jobs:
         id: login-ecr
         uses: aws-actions/amazon-ecr-login@v1
 
+      - name: Create ECR repository if it doesn't exist
+        run: |
+          aws ecr create-repository --repository-name networksecurity-repo --region ${{ secrets.AWS_REGION }} 2>/dev/null || echo "Repository already exists"
+
       - name: Build, tag, and push image to Amazon ECR
         env:
           ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
